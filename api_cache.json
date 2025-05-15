@@ -1,0 +1,124 @@
+{
+    "Hide in TEusha": {
+        "summoner_info": {
+            "data": {
+                "error": false,
+                "puuid": "ocgEDngYlI-A7l_fyEfX731CCKdGhb2Pu_ZytKt9hvsDSXQ60awWwI_1Ba_NzHdwvzZKn6NoN82YPw",
+                "level": 93,
+                "tier": "SILVER",
+                "rank_div": "I",
+                "lp": 10,
+                "ranked_stats": {
+                    "wins": 226,
+                    "losses": 217,
+                    "total": 443,
+                    "wr": 51.0158013544018
+                },
+                "stats": null
+            },
+            "timestamp": 1747110675.7005677
+        },
+        "mastery": {
+            "data": [
+                {
+                    "name": "Akshan",
+                    "level": 18,
+                    "points": 202064
+                },
+                {
+                    "name": "Mel",
+                    "level": 14,
+                    "points": 120170
+                },
+                {
+                    "name": "Tristana",
+                    "level": 7,
+                    "points": 43836
+                }
+            ],
+            "timestamp": 1747110675.8593624
+        },
+        "match_stats": {
+            "data": {
+                "total_games": 10,
+                "wins": 7,
+                "losses": 3,
+                "win_rate": 70.0,
+                "top_champions": [
+                    [
+                        "Akshan",
+                        8
+                    ],
+                    [
+                        "Mel",
+                        2
+                    ]
+                ]
+            },
+            "timestamp": 1746233633.4947171
+        }
+    },
+    "Main Account Rez883": {
+        "summoner_info": {
+            "data": {
+                "error": false,
+                "puuid": "gIBUYV7Opdl6for3O10VSxw36sSX0xJm7_fDMIUV5d4oQy2Xr1KtIq6tpMVS-tgiP6rHfk6x3T6miw",
+                "level": 720,
+                "tier": "PLATINUM",
+                "rank_div": "IV",
+                "lp": 0,
+                "ranked_stats": {
+                    "wins": 168,
+                    "losses": 163,
+                    "total": 331,
+                    "wr": 50.755287009063444
+                },
+                "stats": null
+            },
+            "timestamp": 1747110675.700162
+        },
+        "mastery": {
+            "data": [
+                {
+                    "name": "Xerath",
+                    "level": 41,
+                    "points": 725338
+                },
+                {
+                    "name": "Akshan",
+                    "level": 24,
+                    "points": 435206
+                },
+                {
+                    "name": "Lux",
+                    "level": 15,
+                    "points": 149960
+                }
+            ],
+            "timestamp": 1747110678.8006146
+        },
+        "match_stats": {
+            "data": {
+                "total_games": 10,
+                "wins": 3,
+                "losses": 7,
+                "win_rate": 30.0,
+                "top_champions": [
+                    [
+                        "Akshan",
+                        5
+                    ],
+                    [
+                        "Mel",
+                        2
+                    ],
+                    [
+                        "Warwick",
+                        1
+                    ]
+                ]
+            },
+            "timestamp": 1746233707.1888843
+        }
+    }
+}
